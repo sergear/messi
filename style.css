@@ -14,3 +14,11 @@ color: blue;
     height: 600px;;
     margin-left: 650px;;
 }
+
+.leo{
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
